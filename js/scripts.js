@@ -19,7 +19,9 @@ function divide(number1, number2) {
 const number1 = parseInt(prompt("Enter a number:"));
 const number2 = parseInt(prompt("Enter another number:"));
 
-window.alert(add(number1, number2));
+window.alert(
+  "The addition of your numbers equals " + add(number1, number2) + ".\n" + number1 + " + " + number2 + " = " + add(number1, number2) + "\nThe substraction of your numbers equals " + substract(number1, number2) +".\n" + number1 + " - " + number2 + " = " + substract(number1, number2) + "\nThe multiplication of your numbers equals " + multiply(number1, number2) + ".\n" + number1 + " * " + number2 + " = " + multiply(number1, number2) + "\nThe division of your numbers equals " + divide(number1, number2) + ".\n" + number1 + " / " + number2 + " = " + divide(number1, number2) 
+  );
 
 
 
