@@ -15,7 +15,7 @@ _This is a simple calculator page to practice basic Java Script coding principle
 ## Setup/Installation Requirements
 
 * _You need a web browser_
-* _Open this page from your browser https://asyakap.github.io/calculator/
+* _Open this page from your browser https://asyakap.github.io/calculator/_
 
 
 ## Known Bugs
